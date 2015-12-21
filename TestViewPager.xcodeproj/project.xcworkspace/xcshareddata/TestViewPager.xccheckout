@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2B02B96-D084-4DC3-A76E-57BBB597C7E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestViewPager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29E2A4381E8F1B43E5123E8E52316AA0520695A4</key>
+		<string>https://github.com/evsin/BookCity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestViewPager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29E2A4381E8F1B43E5123E8E52316AA0520695A4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/evsin/BookCity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29E2A4381E8F1B43E5123E8E52316AA0520695A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29E2A4381E8F1B43E5123E8E52316AA0520695A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestViewPager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
